@@ -1,0 +1,6 @@
+{
+  "extends": "gam",
+  "rules": {
+    "function-paren-newline": 0
+  }
+}
